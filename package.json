@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "description": "The template with React-Native for storybookstorybook",
   "author": "s-ong-c[somony9292@gmail.com]",
+  "main": "template.json",
   "bin": {
     "songc": "lib/bin/root.js"
   },
