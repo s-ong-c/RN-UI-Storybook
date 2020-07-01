@@ -1,0 +1,27 @@
+{
+  "name": "react-native-ui-storybook",
+  "version": "0.0.1",
+  "description": "The template with React-Native for storybookstorybook",
+  "author": "s-ong-c[somony9292@gmail.com]",
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "expo",
+    "cli",
+    "template",
+    "boilerplate",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-ong-c/RN-UI-Storybook.git"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "license": "MIT"
+}
